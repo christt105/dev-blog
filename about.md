@@ -5,12 +5,12 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Hi! I am a university student of a Video Games Development degree. I have always liked reading about how people code and learn about it. After 3 years of learning to program and working on some projects, I am so motivated to create this blog. I will write about updates of my projects and how I have made some functionalities.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hope you enjoy!
 
 ### Contact me
 
-[christian.martinez.de.la.rosa.99@gmail.com](mailto:christian.martinez.de.la.rosa.99@gmail.com)
+I will appreciate any question or suggestion about any topic on this blog.
+
+[christt105@gmail.com](mailto:christt105@gmail.com)
